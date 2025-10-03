@@ -1,0 +1,12 @@
+{
+  "10000_0.5_0.1": {
+    "filename": "connectfour_ai_10000games_a0.5_e0.1.pkl",
+    "games": 10000,
+    "alpha": 0.5,
+    "epsilon": 0.1,
+    "q_values_count": 66796,
+    "training_time": null,
+    "created_at": "2025-10-03T12:31:34.491318",
+    "file_size_mb": 53.00748920440674
+  }
+}
